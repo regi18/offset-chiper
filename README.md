@@ -1,2 +1,2 @@
 # offset-chiper
-Decode and Encode text by changing each charachter by the given offset
+Decode and Encode text by changing each char by the given offset
