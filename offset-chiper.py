@@ -1,7 +1,7 @@
 """
 Decode and Encode text by changing each char by the given offset
 Created by: regi18
-Version: 2.0
+Version: 1.0.4
 Github: https://github.com/regi18/offset-chiper
 """
 
