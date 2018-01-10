@@ -14,7 +14,7 @@ copies or substantial portions of the Software.
 
 The end-user documentation included with the redistribution, if any,must
 include the following acknowledgment: "This product includes
-software developed by regi18 (https://github.com/regi18)", in the same place 
+software developed by regi18 (https://github.com/regi18, http://regi18.ml)", in the same place 
 and form as other third-party acknowledgments. 
 Alternately, this acknowledgment may appear in the software
 itself, in the same form and location as other such third-party
